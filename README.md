@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PradeepKumarHN
+- Welcome to my GitHub profile! I'm a passionate software tester and automation engineer specializing in test automation using Cucumber and Selenium. I enjoy creating robust, scalable, and efficient test scripts to ensure the highest quality of software products.
 - 👀 I’m interested in learning Selenide.
 - 🌱 I’m currently learning Rest assured for API testing
 
